@@ -1,2 +1,3 @@
-# typescript_env_temp
-Typescript Environment For templating
+# GAND Stack
+The use app uses GraphQL Apollo Neo4j Database
+
